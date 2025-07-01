@@ -5,11 +5,6 @@ An Object-Oriented Design and Programming lab project built to simulate a hotel 
 
 This is a mini-project developed as part of the **Object-Oriented Design and Programming Laboratory (18CSC202J)** at SRM Institute of Science and Technology.
 
-## 👨‍💻 Team Members
-- V. Venkat Aditya (RA2111003011799)
-- B. Sai Sri Veer (RA2111003011789)
-- K. Jayanth (RA2111003011802)
-
 ## 📌 Objective
 To design and simulate a hotel management system using object-oriented design principles and UML modeling to improve communication and order handling within a hotel.
 
