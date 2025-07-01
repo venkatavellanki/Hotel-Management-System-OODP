@@ -29,9 +29,3 @@ Hotel-Management-System-OODP/
 ├── src/
 ├── diagrams/
 └── docs/
-
-## 📄 Report
-[Click to open project-report.pdf](./project-report.pdf)
-
-## 📷 UML Diagrams
-- ![Class Diagram](diagrams/class-diagram.png)
