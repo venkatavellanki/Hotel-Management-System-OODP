@@ -1,6 +1,3 @@
-# Hotel-Management-System-OODP
-An Object-Oriented Design and Programming lab project built to simulate a hotel management system using C++ and UML design principles.
-
 # 🏨 Hotel Management System – OODP Project
 
 This is a mini-project developed as part of the **Object-Oriented Design and Programming Laboratory (18CSC202J)** at SRM Institute of Science and Technology.
@@ -11,27 +8,30 @@ This is a mini-project developed as part of the **Object-Oriented Design and Pro
 - K. Jayanth (RA2111003011802)
 
 ## 📌 Objective
-To design and simulate a hotel management system using object-oriented design principles and UML modeling to improve communication and order handling within a hotel.
+To simulate a hotel environment using object-oriented design in C++. Includes order taking, menu editing, billing, and kitchen coordination.
 
 ## 🚀 Key Features
-- Customer ordering and billing
-- Table reservation
-- Menu management
-- Kitchen order tickets (KOT) generation
-- User-friendly interface and role-based functionalities
+- Order food
+- Book tables
+- Manage menu
+- Generate bills and kitchen order tickets
 
-## 💡 Concepts & Tools Used
-- C++ (OOP: classes, inheritance, overloading, exceptions, STL)
-- UML Diagrams (Use Case, Class, Sequence, Activity, Deployment, Collaboration)
-- StarUML / ArgoUML
-- Code::Blocks / GCC Compiler
+## 🛠 Tech Stack
+- C++ (OOP concepts)
+- UML (Class, Use Case, Sequence, Deployment)
+- Tools: Code::Blocks, StarUML
 
-## 📁 Folder Structure
-
+## 📂 Folder Structure
 Hotel-Management-System-OODP/
-│
 ├── README.md
+├── .gitignore
 ├── project-report.pdf
-├── src/ # All C++ source files
-├── diagrams/ # UML diagrams
-└── docs/ # Optional: Abstract, Requirements, etc.
+├── src/
+├── diagrams/
+└── docs/
+
+## 📄 Report
+[Click to open project-report.pdf](./project-report.pdf)
+
+## 📷 UML Diagrams
+- ![Class Diagram](diagrams/class-diagram.png)
