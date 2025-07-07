@@ -2,11 +2,6 @@
 
 This is a mini-project developed as part of the **Object-Oriented Design and Programming Laboratory (18CSC202J)** at SRM Institute of Science and Technology.
 
-## 👨‍💻 Team Members
-- V. Venkat Aditya (RA2111003011799)
-- B. Sai Sri Veer (RA2111003011789)
-- K. Jayanth (RA2111003011802)
-
 ## 📌 Objective
 To simulate a hotel environment using object-oriented design in C++. Includes order taking, menu editing, billing, and kitchen coordination.
 
